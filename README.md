@@ -21,7 +21,7 @@ Welcome to my page; on my Github, you can find:
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ChristanSandiyo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandiyo-christan-bb3847198/)
-[![instagram](https://img.shields.io/badge/Instagam-pink)](https://www.instagram.com/sandiyo_christan/)
+
 
 ### INFOSEC SKILLS:
 Welcome to my page; on my Github, you can find:
@@ -29,6 +29,10 @@ Welcome to my page; on my Github, you can find:
 - Mobile Application Pentesting
 - Network Pentesting
 - Exploit Development
+
+#### 📧 My RESUME:
+
+[![RESUME](https://img.shields.io/badge/RESUME-bright)](https://drive.google.com/file/d/1q0VIj5Yt7ycZ8e0g48By4s9En4yueH3h/view)
 
 
 #### 📜 GOOGLE VRP PROFILE:
