@@ -37,7 +37,7 @@ Welcome to my page; on my Github, you can find:
 
 #### 📜 GOOGLE VRP PROFILE:
 
-(@SANDIYO_CHRISTAN(https://bughunters.google.com/profile/bf92b329-8d5b-4d79-ba60-6266ca195e11))
+[![GOOGLE_VRP_PROFILE](https://img.shields.io/badge/GOOGLE_VRP_PROFILE-blue)](https://bughunters.google.com/profile/bf92b329-8d5b-4d79-ba60-6266ca195e11)
 
 ---
 #### I am 🧙 part-time Bug Hunter.
