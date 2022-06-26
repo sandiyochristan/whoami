@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Sandiyo_Christan.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Jaji Anjathi K.
 
 
 I am 🧙 Software Engineer and 👾 Security Researcher ( 🏆 Google VRP Top 500 Researcher)
