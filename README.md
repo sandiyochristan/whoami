@@ -32,7 +32,7 @@ Welcome to my page; on my Github, you can find:
 
 #### 📧 My RESUME:
 
-[![RESUME](https://img.shields.io/badge/RESUME-bright)](https://drive.google.com/file/d/1q0VIj5Yt7ycZ8e0g48By4s9En4yueH3h/view)
+[![RESUME](https://img.shields.io/badge/RESUME-bright)](https://drive.google.com/file/d/1RjWbSF3JqyfJP90WZeK-tIuWXrQzH1LE/view)
 
 
 #### 📜 GOOGLE VRP PROFILE:
